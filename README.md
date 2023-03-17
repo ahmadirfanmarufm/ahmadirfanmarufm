@@ -18,8 +18,7 @@
 <summary>GitHub Statistics</summary>
   
 <hr/>
-<p align="left">
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ahmadirfanmarufm&show_icons=true" alt="ahmadirfan" />
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ahmadirfanmarufm&show_icons=true" alt="ahmadirfan" />
 </p>
 
 <p align="left">
