@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I',m Ahmad Irfan Ma'ruf Maulana</h1>
-<h3 align="center">I like to explore and try new things on topics related to web development, backend, api and also scrapping, you can call it BackEnd Development. Very interested in optimizing performance for the best user experience on the web and Discord bot development</h3>
+<h3 align="center">I like to explore and try new things on topics related to web development, backend, api and also scrapping, you can call it BackEnd Development. Very interested in optimizing performance for the best user experience on the web and discord bot development</h3>
 <img align="right" alt="AhmadIrfan Logo" width="400" src="https://res.cloudinary.com/panda-empire/image/upload/v1679042015/20230314_175150_f6x2py.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadirfanmarufm&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadirfan" /> </p>
